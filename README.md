@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Interactive 3-D Holographic Technology without any spatial device**
 
-- 🌱 I’m currently learning **C,KALI LINUX,HTML,CSS,JS,JAVA,PYTHON,DSA**
+- 🌱 I’m currently learning **C,LINUX,JS,JAVA,PYTHON,DSA**
 
 - 👯 I’m looking to collaborate on **Interactive 3-D Holographic Technology without any spatial device**
 
