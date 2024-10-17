@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **linktr.ee/tushargautam**
 
-- 📄 Know about my experiences [https://tushargautam.github.io](https://tushargautam.github.io)
+- 📄 Know about my experiences [https://tushargautam.github.io](https://tushargautam681.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
