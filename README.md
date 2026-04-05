@@ -1,43 +1,168 @@
-
 <h1 align="center">Hi 👋, I'm Tushar Gautam</h1>
-<h3 align="center">A passionate Full Stack Engineer,Entrepreneur from India</h3>
+<h3 align="center">🚀 AI + EdTech Builder | Full Stack Engineer | Founder @ VidyaLok</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushargautam681&label=Profile%20views&color=0e75b6&style=flat" alt="tushargautam681" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushargautam681" alt="tushargautam681" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tushargautam681" target="blank"><img src="https://img.shields.io/twitter/follow/tushargautam681?logo=twitter&style=for-the-badge" alt="tushargautam681" /></a> </p>
-
-- 🔭 I’m currently working on **Interactive 3-D Holographic Technology without any spatial device**
-
-- 🌱 I’m currently learning **C,DSA,HTML,CSS,JS,Bootstrap,Linux,Java,Python**
-
-- 👯 I’m looking to collaborate on **Interactive 3-D Holographic Technology without any spatial device**
-
-- 🤝 I’m looking for help with **Interactive 3-D Holographic Technology without any spatial device**
-
-- 👨‍💻 All of my projects are available at [https://github.com/tushargautam681](https://github.com/tushargautam681)
-
-- 💬 Ask me about **C,KALI LINUX,HTML,CSS,JS,JAVA,PYTHON,DSA**
-
-- 📫 How to reach me **linktr.ee/tushargautam**
-
-- 📄 Know about my experiences [https://tushargautam681.github.io](https://tushargautam681.github.io)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tushargautam681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushargautam681" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tushar-gautam-a89b50284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-gautam-a89b50284" height="30" width="40" /></a>
-<a href="https://kaggle.com/tushargautam681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tushargautam681" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tushargautam681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tushargautam681" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tushargautam681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushargautam681" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tushargautam681&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/tushargautam681?label=Followers&style=social" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20EdTech%20%7C%20Holography-blueviolet" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushargautam681&show_icons=true&locale=en&layout=compact" alt="tushargautam681" /></p>
+## 🌌 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushargautam681&show_icons=true&locale=en" alt="tushargautam681" /></p>
+I’m a **builder on a mission to transform education** using immersive technology.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushargautam681&" alt="tushargautam681" /></p>
+While most systems rely on passive learning, I’m building something radically different:
+
+> 🧠 **VidyaLok — Interactive 3D Holographic Learning System**  
+> Turning classrooms into **interactive, immersive learning environments**
+
+---
+
+## 🧠 VidyaLok (Flagship Project)
+
+🚀 **What it does:**
+- 🧩 Combines **LiDAR + holographic projection + AI-powered interaction**
+- 🎯 Lets students **see, touch & interact with concepts in real-time**
+- 🚫 No VR headsets → **accessible & scalable**
+- 🏫 Built for **schools, STEM & EdTech ecosystems**
+
+💡 Vision:  
+> *“Metaverse for Education — without headsets”*
+
+---
+
+## 🔥 What I'm Building
+
+- ⚡ Interactive 3D Holographic System (Hardware + Software)
+- 🧠 AI-generated educational content systems
+- 🎮 Gesture-based interaction interfaces
+- 🌐 Scalable platform for schools & institutions
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Development
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,bootstrap" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,gcp" />
+</p>
+
+### 🧠 Exploring
+- Computer Vision  
+- AI/ML Systems  
+- 3D Modeling & Simulation  
+- Holographic Displays  
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 🔬 Building **MVP of holographic learning system**
+- 📊 Increasing **student engagement via immersive tech**
+- 🤝 Collaborating with **schools & EdTech ecosystem**
+- 📈 Designing **scalable deployment model**
+
+---
+
+## 🤝 Open to Collaborate
+
+- 👯 AI + EdTech + Holographic Systems  
+- 🤝 Research, product & startup building  
+- 💬 Ask me about **Java, Python, Web Dev, Linux, AI Basics**
+
+---
+
+## 🌍 Why This Matters
+
+Education today is broken:
+- ❌ Passive learning  
+- ❌ Low retention  
+- ❌ No real-world understanding  
+
+👉 VidyaLok makes learning:
+- Immersive  
+- Interactive  
+- Experiential  
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms  
+- Backend Systems (Java)  
+- AI/ML + Computer Vision  
+- Cloud & Scalable Architectures  
+
+---
+
+## 📂 Projects
+
+🔗 **Featured Project**  
+👉 https://github.com/tushargautam681/CosmicQuery.git  
+
+📌 **All Projects**  
+👉 https://github.com/tushargautam681  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tushargautam681&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushargautam681&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tushargautam681&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/tushar-gautam-a89b50284"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://twitter.com/tushargautam681"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
+
+- 🌍 Portfolio: https://tushargautam681.github.io  
+- 📫 Linktree: https://linktr.ee/tushargautam  
+
+---
+
+## ⚡ Final Note
+
+I’m not just learning tech —  
+I’m building something that can **change how millions of students learn.**
+
+---
+
+⭐ If you believe in the future of immersive education — let’s build it together.
