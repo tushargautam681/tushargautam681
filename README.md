@@ -13,8 +13,6 @@
 
 I’m a **builder on a mission to transform education** using immersive technology.
 
-While most systems rely on passive learning, I’m building something radically different:
-
 > 🧠 **VidyaLok — Interactive 3D Holographic Learning System**  
 > Turning classrooms into **interactive, immersive learning environments**
 
@@ -24,21 +22,21 @@ While most systems rely on passive learning, I’m building something radically 
 
 🚀 **What it does:**
 - 🧩 Combines **LiDAR + holographic projection + AI-powered interaction**
-- 🎯 Lets students **see, touch & interact with concepts in real-time**
-- 🚫 No VR headsets → **accessible & scalable**
-- 🏫 Built for **schools, STEM & EdTech ecosystems**
+- 🎯 Enables students to **visualize & interact with concepts in real-time**
+- 🚫 No VR headsets → accessible & scalable
+- 🏫 Designed for **schools, STEM & EdTech ecosystems**
 
 💡 Vision:  
-> *“Metaverse for Education — without headsets”*
+> *Metaverse for Education — without headsets*
 
 ---
 
 ## 🔥 What I'm Building
 
 - ⚡ Interactive 3D Holographic System (Hardware + Software)
-- 🧠 AI-generated educational content systems
-- 🎮 Gesture-based interaction interfaces
-- 🌐 Scalable platform for schools & institutions
+- 🧠 AI-powered educational content generation
+- 🎮 Gesture-based interaction systems
+- 🌐 Scalable learning platform
 
 ---
 
@@ -53,12 +51,6 @@ While most systems rely on passive learning, I’m building something radically 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,gcp" />
 </p>
-
-### 🧠 Exploring
-- Computer Vision  
-- AI/ML Systems  
-- 3D Modeling & Simulation  
-- Holographic Displays  
 
 ---
 
@@ -81,10 +73,10 @@ While most systems rely on passive learning, I’m building something radically 
 
 ## 🚀 Current Focus
 
-- 🔬 Building **MVP of holographic learning system**
-- 📊 Increasing **student engagement via immersive tech**
-- 🤝 Collaborating with **schools & EdTech ecosystem**
-- 📈 Designing **scalable deployment model**
+- 🔬 Building MVP of holographic learning system  
+- 📊 Improving student engagement  
+- 🤝 Collaborating with schools & EdTech  
+- 📈 Working on scalable deployment  
 
 ---
 
@@ -92,7 +84,7 @@ While most systems rely on passive learning, I’m building something radically 
 
 - 👯 AI + EdTech + Holographic Systems  
 - 🤝 Research, product & startup building  
-- 💬 Ask me about **Java, Python, Web Dev, Linux, AI Basics**
+- 💬 Ask me about Java, Python, Web Dev, Linux, AI  
 
 ---
 
@@ -101,7 +93,7 @@ While most systems rely on passive learning, I’m building something radically 
 Education today is broken:
 - ❌ Passive learning  
 - ❌ Low retention  
-- ❌ No real-world understanding  
+- ❌ No real-world visualization  
 
 👉 VidyaLok makes learning:
 - Immersive  
@@ -113,9 +105,9 @@ Education today is broken:
 ## 🌱 Currently Learning
 
 - Data Structures & Algorithms  
-- Backend Systems (Java)  
+- Backend Systems  
 - AI/ML + Computer Vision  
-- Cloud & Scalable Architectures  
+- Cloud & Scalable Systems  
 
 ---
 
@@ -132,8 +124,8 @@ Education today is broken:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushargautam681&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushargautam681&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tushargautam681&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushargautam681&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -165,4 +157,4 @@ I’m building something that can **change how millions of students learn.**
 
 ---
 
-⭐ If you believe in the future of immersive education — let’s build it together.
+⭐ If you believe in the future of immersive education — let’s connect!
